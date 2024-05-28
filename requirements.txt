@@ -1,0 +1,11 @@
+ipykernel
+streamlit
+watchdog
+streamlit-aggrid
+streamlit-pandas-profiling
+pandas-profiling
+altair<5
+langchain_experimental
+langchain
+openai
+python-dotenv
